@@ -3,7 +3,7 @@
      height: 150px;
      background-color: blue;
      position: relative;
-     transition-property: padding;
+     transition-property: width, background-color;
      transition: left 1s ease-out;
      left: 0;
     
